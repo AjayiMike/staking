@@ -29,6 +29,7 @@ contract SkateToken is ERC20 {
   }
 
   receive() external payable {}
+  
 }
 
 
